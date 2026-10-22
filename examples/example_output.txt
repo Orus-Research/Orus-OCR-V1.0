@@ -1,0 +1,48 @@
+Language:    bn+en
+Handwritten: Yes
+   লেখন
+ প্রশ্ন আমার জাহানি
+   দীপ্ত প্রাণের মনিকা
+ শুষ্ক আঁধার নিলাকে
+   উন্তিচ্ছে আলোর ধরা ।
+ My fancies are fireflies
+  speaks of living light-
+  Twinkling in the dark.
+ আমার লিখন ফুটে পর্থধারে
+    ক্ষণিক কালের ফুলে ,
+ চলতে বলিতে দেখে যারা তারে
+    চলতে বলিতে তুলে ।
+ The same voice murmurs
+    in These desultory lines
+which is born in wayside pansies
+   letting hasty glances pass by.
+প্রজাপতি মেতে বরং না গলে ,
+   নিমেষ গিয়া ধাঁচে ।
+সময় তাহার যে তাই আছে ।
+The butterfly does not count years
+     butmoments
+ and therefore has enough time .
+
+0.96  bn     লেখন
+0.88  bn     প্রশ্ন আমার জাহানি
+0.85  bn     দীপ্ত প্রাণের মনিকা 
+0.78  bn     শুষ্ক আঁধার নিলাকে  <- low confidence
+0.83  bn     উন্তিচ্ছে আলোর ধরা ।
+0.89  en     My fancies are fireflies
+0.94  en     speaks of living light-
+0.87  en     Twinkling in the dark.
+0.98  bn     আমার লিখন ফুটে পর্থধারে
+0.91  bn     ক্ষণিক কালের ফুলে ,
+0.91  bn     চলতে বলিতে দেখে যারা তারে
+0.90  bn     চলতে বলিতে তুলে ।
+0.98  en     The same voice murmurs
+0.90  en     in These desultory lines
+0.92  en     which is born in wayside pansies
+0.93  en     letting hasty glances pass by.
+0.83  bn     প্রজাপতি মেতে বরং না গলে ,
+0.84  bn     নিমেষ গিয়া ধাঁচে ।
+0.90  bn     সময় তাহার যে তাই আছে ।
+0.91  en     The butterfly does not count years
+0.97  en     butmoments
+0.91  en     and therefore has enough time .
+{'detect': 54, 'recognize': 273, 'handwritten': 20, 'total': 347}

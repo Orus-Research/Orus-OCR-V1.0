@@ -1,0 +1,8 @@
+# Training and data preparation (CUDA GPU). Install the inference requirements too.
+-r requirements.txt
+torch==2.14.1
+onnx==1.23.2
+pyarrow==25.0.1
+rapidfuzz==3.14.5
+pillow==12.3.0
+fonttools==4.65.0

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/
+runs/
+models/
+*.onnx
+*.pt
+*.npz
